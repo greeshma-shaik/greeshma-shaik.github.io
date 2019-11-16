@@ -14,4 +14,4 @@ these were the basic things that i have learnt in this boot camp
 ###### im thankful that i had attended it.
    ### explanation:
    #### what is AI?
-     AI is an emerging technology that allows machines or computers to imitate human thinking.it allows machines to learn,think and respond with out any explicit code
+AI is an emerging technology that allows machines or computers to imitate human thinking.it allows machines to learn,think and respond with out any explicit code
