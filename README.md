@@ -21,8 +21,7 @@ the word AI was first coined in 1956 by john McCarthy.this thought was first sta
 * self driving cars
 * alpha go(game for playing go)
 * speech recognition
-* image recognition
-..........etc
+* image recognition..........etc
    #### major concepts of AI:
 AI was majorly built on these concepts:
  * machine learning
