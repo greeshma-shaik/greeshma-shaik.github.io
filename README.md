@@ -11,5 +11,7 @@ these were the basic things that i have learnt in this boot camp
 * convolutional neural networks
 * deep convolutional neural networks
 * multilayer perceptrons
-##### im thankful that i was here.
-*bye bye
+###### im thankful that i had attended it.
+   ### explanation:
+   #### what is AI?
+     AI is an emerging technology that allows machines or computers to imitate human thinking.it allows machines to learn,think and respond with out any explicit code
