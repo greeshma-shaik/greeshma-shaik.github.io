@@ -15,3 +15,17 @@ these were the basic things that i have learnt in this boot camp
    ### explanation:
    #### what is AI?
 AI is an emerging technology that allows machines or computers to imitate human thinking.it allows machines to learn,think and respond with out any explicit code
+   #### history of AI:
+the word AI was first coined in 1956 by john McCarthy.this thought was first started when a question "CAN MACHINES THINK?" has arised.there started the journey of artificial intelligence.
+   #### appilications of AI:
+* self driving cars
+* alpha go(game for playing go)
+* speech recognition
+* image recognition
+..........etc
+  #### major concepts of AI:
+AI was majorly built on these concepts:
+ * machine learning
+ * deep learning
+ * neural networks
+###### to be continued........
